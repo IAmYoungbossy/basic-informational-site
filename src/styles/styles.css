@@ -65,10 +65,16 @@ button {
   outline: none;
   color: blue;
   cursor: pointer;
+  font-weight: 600;
   border-radius: 5px;
   border: 1px solid blue;
   padding: 0.3125rem 0.9375rem;
   background-color: transparent;
+}
+
+button:hover {
+  color: #fff;
+  background-color: blue;
 }
 
 p {
