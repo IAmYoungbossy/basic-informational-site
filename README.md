@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a full-stack web application built with Node.js and TypeScript, using Node's core modules without any framework. It serves as a basic informational site that listens to incoming requests and serves web pages according to the requested URL. This project demonstrates the use of Node.js for server-side development and TypeScript for a statically typed and structured codebase.
+This project is built with Node.js and TypeScript, using Node's core modules without any framework. It serves as a basic informational site that listens to incoming requests and serves web pages according to the requested URL. This project demonstrates the use of Node.js for server-side development and TypeScript for a statically typed and structured codebase.
 
 ## Learning Objectives
 
