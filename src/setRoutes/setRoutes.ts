@@ -1,6 +1,6 @@
 import fs from "fs";
 import http from "http";
-import sendHtmlFile from "./sendHtmlFile";
+import sendHtmlFile from "../sendHtmlFile/sendHtmlFile";
 
 export default function setRoutes(
   req: http.IncomingMessage,

@@ -1,6 +1,6 @@
 import http from "http";
 import { log } from "console";
-import requestHandler from "./requestHandler";
+import requestHandler from "./requestHandler/requestHandler";
 
 const server = http.createServer(requestHandler);
 

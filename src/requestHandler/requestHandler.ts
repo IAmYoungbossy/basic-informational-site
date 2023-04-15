@@ -1,8 +1,8 @@
 import fs from "fs";
 import http from "http";
 import { log } from "console";
-import setRoutes from "./setRoutes";
-import sendHtmlFile from "./sendHtmlFile";
+import setRoutes from "../setRoutes/setRoutes";
+import sendHtmlFile from "../sendHtmlFile/sendHtmlFile";
 
 export default function requestHandler(
   req: http.IncomingMessage,
